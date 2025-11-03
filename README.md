@@ -1,3 +1,18 @@
+🌐 Projeto Front-End com Angular e Bootstrap
+
+Este é um projeto simples desenvolvido com Angular e Bootstrap, com o objetivo de praticar e demonstrar conhecimentos básicos em desenvolvimento front-end moderno.
+O foco é a construção de uma interface limpa, responsiva e de fácil manutenção.
+
+🚀 Tecnologias Utilizadas
+
+Angular
+ — Framework front-end baseado em TypeScript.
+
+Bootstrap
+ — Framework CSS para design responsivo.
+
+HTML5 / CSS3 / TypeScript — Estrutura e estilização da aplicação.
+
 # BlogPessoal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
